@@ -33,7 +33,9 @@ Your final output should look like this
 
 ![Superwar](doc/superwars-css.png)
 
-https://chaitanyaganeshraju.github.io/project-11-superwars-css/
+
+
+[output](https://chaitanyaganeshraju.github.io/project-11-superwars-css/)
 
 
 Happy Coding ProGrad ❤️
