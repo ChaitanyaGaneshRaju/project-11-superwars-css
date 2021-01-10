@@ -35,7 +35,7 @@ Your final output should look like this
 
 
 
-[output](https://chaitanyaganeshraju.github.io/project-11-superwars-css/)
+(https://chaitanyaganeshraju.github.io/project-11-superwars-css/)
 
 
 Happy Coding ProGrad ❤️
