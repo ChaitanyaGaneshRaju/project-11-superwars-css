@@ -12,24 +12,6 @@ Lucus always loves protagonists like most of us. But Dustin is quite crazy, he l
 
 Okay, let us explain. They are going to facilitate the ultimate war between Super Heroes and Super Villains. As they are new to these technologies, they need a **ProGrad** to help them build this game.
 
-## What should you do
-```
-Fork this repo
-Clone this repo
-Practice CSS - Flexbox, Grids
-```
-
-## How To Submit
-```
-Upon completion, run the following commands:
-
-git add .
-git commit -m "ProGrad ID"
-git push origin master
-
-And finally, create a pull request so your ProGrad Mentor (PM) can review your work.
-```
-
 ### Progression : Build the arena & Have the players ready
 
 1. Create a html document `index.html`.
@@ -50,6 +32,8 @@ Your output should adhere to the following conditions.
 Your final output should look like this
 
 ![Superwar](doc/superwars-css.png)
+
+https://chaitanyaganeshraju.github.io/project-11-superwars-css/
 
 
 Happy Coding ProGrad ❤️
